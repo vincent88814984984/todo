@@ -1,0 +1,9 @@
+server:
+    port: 9090
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://mysql:3306/todolist?serverTimezone=GMT%2b8
+    username: todo
+    password: rS&#2Hy@W9
